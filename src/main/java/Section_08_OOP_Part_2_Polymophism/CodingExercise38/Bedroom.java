@@ -1,4 +1,6 @@
-package src.main.java.Section_07_OOP_Part_2_Polymophism.CodingExercise38;
+package Section_08_OOP_Part_2_Polymophism.CodingExercise38;
+
+import Section_07_OOP_Part_1_Inheritance.CodingExercise32.Wall;
 
 class Bedroom {
     private String name;

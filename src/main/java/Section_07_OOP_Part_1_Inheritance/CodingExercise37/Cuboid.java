@@ -1,6 +1,6 @@
 package Section_07_OOP_Part_1_Inheritance.CodingExercise37;
 
-public class Cuboid extends src.main.java.Section_07_OOP_Part_1_Inheritance.CodingExercise37.Rectangle {
+public class Cuboid extends Rectangle {
 
     private double height;
 

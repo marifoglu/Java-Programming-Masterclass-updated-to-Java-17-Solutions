@@ -1,4 +1,4 @@
-package src.main.java.Section_07_OOP_Part_2_Polymophism.CodingExercise39;
+package Section_08_OOP_Part_2_Polymophism.CodingExercise39;
 
 public class Printer {
     private int tonerLevel;

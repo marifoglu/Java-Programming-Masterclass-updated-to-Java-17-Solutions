@@ -1,4 +1,4 @@
-package src.main.java.Section_07_OOP_Part_2_Polymophism.CodingExercise41;
+package Section_08_OOP_Part_2_Polymophism.CodingExercise41;
 
 class DeluxeBurger extends Hamburger {
     public DeluxeBurger() {

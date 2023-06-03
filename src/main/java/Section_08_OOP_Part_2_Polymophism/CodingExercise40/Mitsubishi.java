@@ -1,4 +1,4 @@
-package src.main.java.Section_07_OOP_Part_2_Polymophism.CodingExercise40;
+package Section_08_OOP_Part_2_Polymophism.CodingExercise40;
 
 public class Mitsubishi extends Car{
     public Mitsubishi(int cylinders, String name) {
