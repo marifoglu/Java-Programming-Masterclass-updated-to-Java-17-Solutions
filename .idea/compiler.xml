@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Java-Programming-Masterclass" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Java-Programming-Masterclass" target="18" />
       <module name="Java-Programming-Masterclass-updated-to-Java-17---Solutions" target="18" />
     </bytecodeTargetLevel>
   </component>
