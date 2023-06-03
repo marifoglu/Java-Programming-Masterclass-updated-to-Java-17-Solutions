@@ -1,4 +1,4 @@
-package src.main.java.Section_07_OOP_Part_1_Inheritance.CodingExercise37;
+package Section_07_OOP_Part_1_Inheritance.CodingExercise37;
 
 public class Rectangle {
 

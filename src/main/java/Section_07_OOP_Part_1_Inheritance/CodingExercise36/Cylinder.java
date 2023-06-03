@@ -1,4 +1,4 @@
-package src.main.java.Section_07_OOP_Part_1_Inheritance.CodingExercise36;
+package Section_07_OOP_Part_1_Inheritance.CodingExercise36;
 
 public class Cylinder extends Section_07_OOP_Part_1_Inheritance.CodingExercise36.Circle {
     private double height;
